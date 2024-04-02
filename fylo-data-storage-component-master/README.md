@@ -1,6 +1,6 @@
-# Testimonials grid section
+# Fylo data storage component
 
-![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
+![screen shote](./design/desktop-preview.jpg)
 
 
 ## Table of Contents
@@ -16,19 +16,23 @@
 * [Author](#author)
 
 ## Project Overview
- I pick that project from the Frontend Mentor for practic the html and css. This is the testimonial grid section component for improveing css grid.
+ I pick that project from the Frontend Mentor for practic the html and css. This is the Fylo data storage component for improveing css.
 
 ## Features
 it not has a specific feature because it is the static web component.
+
 ## Installation
 we can use this by simply open code within the any web browser.
+
 ## Usage
 use to show the five card within the any kind of device because it is the responsive.
 <!-- ## Contributing -->
+
 ## Testing
 i test it, it work correct but you can also use by simply open index.html file on any web browser.
 <!-- ## Deployment -->
 <!-- ## License -->
+
 ## Author
 - [Anoop Rajoriya]()
 - [instagram]()
