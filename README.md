@@ -11,11 +11,15 @@
 | project name             | prject code                                                  |
 | ------------------------ | ------------------------------------------------------------ |
 | Testimonial grid section | [testimonial-grid-section](./testimonials-grid-section-main) |
+| Fylo data storage component | [Fylo data storage component](./fylo-data-storage-component-master/) |
 
 ## Projects name list with live demo links
 
 | project name | project live demo link |
 | ------------ | ---------------------- |
 | Tesimonial grid section | [testimonial-grid-section](https://anoop-rajoriya.github.io/Frontend-Mentor-Challenges-Free-Free-junior-intermediat-HTML-CSS-/testimonials-grid-section-main/) |
+| Fylo data storage component | [Fylo data storage component](https://anoop-rajoriya.github.io/Frontend-Mentor-Challenges-Free-Free-junior-intermediat-HTML-CSS-/fylo-data-storage-component-master/) |
 
 ## Authore
+
+* [Anoop rajoriya]()
